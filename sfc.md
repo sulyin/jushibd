@@ -21,7 +21,7 @@
 <img src="https://github.com/sulyin/jushibd/blob/main/shengming.jpg" width="400" height="auto">
 
 ###    1.1 新菜订阅
-关注含“准备”文字的朋友圈，在文章中打赏即可订阅（请勿打赏1元，无效）。
+关注含“准备”文字的朋友圈，在文章中打赏≥58元即可订阅下一只菜（打赏1元无效）。
 
 订阅后点赞该条朋友圈，接收新菜“已发射”通知。如图：
 
